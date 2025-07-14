@@ -1,0 +1,426 @@
+PROMPT TEMPLATES
+ 
+Prompt Engineering: 50+ Ready-to-Use Prompt Templates Designed for educators and learners	includes basic, intermediate, and advanced examples.
+
+
+A. Basic Prompt Templates
+
+1.	General Inquiry :
+Explain [topic] in simple terms.
+
+Try: Explain Isreal vs Iran in simple terms.
+
+ 2. 	Summarization :
+Summarize the following text in [number] bullet points:
+[Insert long text here]
+ 
+Try: Summarize the following text in 10 bullet points:
+[The conflict between Israel and Iran is one of the most serious and complex rivalries in the Middle East. While it does not involve direct warfare most of the time, the two countries are locked in a long-standing political and military struggle, often called a “shadow war.” This conflict is mainly about power, religion, security, and ideology, rather than land or borders. Historical Background The tension between Israel and Iran grew after 1979, when Iran became an Islamic Republic following a revolution. Iran's new leaders strongly opposed Israel, calling it an illegitimate state and expressing support for Palestinians. Iran does not recognize Israel as a country and often calls for its destruction. Over the years, Iran has supported armed groups that fight against Israel, including Hezbollah in Lebanon and Hamas in Gaza. Main Reasons for the Conflict One of the biggest concerns for Israel is Iran’s nuclear program. While Iran insists it is for peaceful purposes, Israel and many Western countries fear that Iran wants to build nuclear weapons. This would be a serious threat to Israel’s existence, and so Israel has taken many steps to stop Iran from reaching that goal, including cyber attacks and suspected assassinations of Iranian scientists. On the other hand, Iran sees Israel as a threat to the Muslim world. Iran opposes Israel’s close ties with the United States and believes Israel treats Palestinians unfairly. Iran tries to expand its influence across the Middle East by supporting armed groups that oppose Israel. This has led to indirect fights, or “proxy wars,” in countries like Syria, Lebanon, and Gaza. Types of Conflict Although Israel and Iran rarely fight face-to-face, they attack each other in other ways: Cyber warfare: Both sides have used hacking and digital spying to harm each other. Airstrikes: Israel has bombed Iranian bases in Syria to prevent weapons from reaching its enemies. Assassinations: Iran has accused Israel of killing important Iranian figures linked to nuclear development. Terror attacks: Iran-backed groups have launched rockets and other attacks on Israeli areas. The Human Side While the governments are deeply opposed, it is important to note that not all Iranians hate Israelis, and not all Israelis hate Iranians. Many people on both sides want peace, but political and religious leaders keep the conflict going. Conclusion The Israel-Iran conflict is not just about two countries; it is part of a larger struggle for power and influence in the Middle East. The situation is complicated and dangerous, especially because of nuclear fears and proxy wars. Although peace seems far away, understanding the reasons behind the conflict is the first step toward finding hope for a better future.]
+ 
+3. 	Paraphrasing
+Rewrite this sentence in your own words:
+[Sentence here]
+
+Try: Rewrite this sentence in your own words:
+"Long-Standing Rivalry: Israel and Iran are engaged in a complex “shadow war” marked by political and military tension rather than direct warfare.
+Rooted in 1979 Revolution: The conflict intensified after Iran’s 1979 Islamic Revolution, which led to Iran’s refusal to recognize Israel and support for Palestinian causes.
+Iran's Alliances: Iran supports armed groups like Hezbollah and Hamas that actively oppose Israel, increasing regional instability.
+Nuclear Concerns: Israel fears Iran’s nuclear program may lead to weapons development, posing a direct threat to its existence.
+Proxy Conflicts: The two nations fight indirectly through proxy wars in countries like Syria, Lebanon, and Gaza.
+Cyber Warfare: Both sides engage in hacking, cyber attacks, and digital espionage to weaken each other.
+Airstrikes & Assassinations: Israel has targeted Iranian military positions in Syria and is suspected of assassinating Iranian nuclear scientists.
+Terror Attacks: Iran-backed groups have launched rocket attacks and other terror operations against Israeli territories.
+People vs. Politics: Despite hostile governments, many ordinary Iranians and Israelis desire peace and coexistence.
+Wider Regional Impact: The conflict reflects a broader power struggle in the Middle East, fueled by ideology, religion, and global alliances."
+ 
+ 
+4. 	Definition Request
+What is the meaning of [term or concept]?
+
+Try: What is the meaning of Prompt Chaining?
+ 
+ 5. 	Comparison
+Compare [A] and [B] based on [criteria].
+
+Try: Compare code vs no code based on AI automation.
+ 
+ 
+B. Persona-Based Prompt Templates
+
+6.	Role + Explanation
+You are a [role]. Explain [concept] to [audience].
+Example: You are a chef. Explain how to make pasta to a beginner
+
+Try: You are a Tele Caller working in a local printing press business. Explain the latest offer to the customers in contact list. 
+ 
+ 7.	Style Mimicry
+Write like [famous person or character] : [topic].
+Example: Write like Elon Musk: Why Al will change the world.
+
+Try: Write like Superstar Rajinikanth: Why Graphic Designing is most important.
+ 
+ 8.	Professional Writing
+You are a [job title]. Write a [document type] about [topic].
+Example: You are a marketing manager. Write a productdescription for an electric car
+ 
+Try: You are a Quality Controller in Artwork Design at an FMCG Firm. Write an Escalation Mail about the recently made error on Package Design in the Ingredient Part.
+ 
+C. Few-Shot Prompt Templates
+
+9.	Classification Template Classify sentiment:
+[Example 1] [Label 1]
+[Example 2] [Label 2]
+[New Input] 
+Example: The food was amazing - Positive
+I hated the service - Negative
+It was okay - 
+
+Try: I have to learn prompt Engineering - Positive
+I have to complete in the next 2 hours - Negative
+I am interested in these things - 
+  
+10.	Translation Template
+Translate the following sentences into [target language] :
+[English sentence] [Translated sentence]
+[Another English sentence] [Translated sentence]
+[New sentence]  
+Example: Write like Elon Musk: Why Al will change the world.
+
+Try: Translate the following sentences into Tamil :
+[Despite hostile governments, many ordinary Iranians and Israelis desire peace and coexistence.] [எதிர்மறை அரசுகளினையும் மீறி, பல சாதாரண ஈரானியரும் இஸ்ரேலியர்களும் சமாதானத்தையும் உடனிருந்து வாழ்ந்திடுவதையும் விரும்புகிறார்கள்.]
+[The conflict intensified after Iran’s 1979 Islamic Revolution, which led to Iran’s refusal to recognize Israel and support for Palestinian causes.] [இந்திராவின் 1979 இஸ்லாமிய புரட்சிக்குப் பிறகு முரண்பாடு தீவிரமானது, இது இஸ்ரேலை அங்கீகரிக்க மறுக்கும் மற்றும் பாலஸ்தீனக்கான ஆதரவுக்கு இראனின் செயல்களை வழிவகுத்தது.]
+[Iran supports armed groups like Hezbollah and Hamas that actively oppose Israel, increasing regional instability.]
+ 
+ 
+ 
+11.	Question Answering Template
+Answer these questions:
+Who wrote "Romeo and Juliet"? William Shakespeare What is the capital of France? Paris Who discovered gravity? 
+
+Try: Who wrote Ikigai?
+ 
+ 
+D. Chain-of-Thought (COT) Templates
+
+12. Step-by-Step Reasoning
+Let's think step by step. [Problem statement]. First, we [step 1], then [step 2], so finally [conclusion].
+Example: Let's think step by step. If a train travels at 60 km/h for
+3 hours, how far does it go?
+
+Try; Let's think step by step. Step:1 Tell me the Road map to become AI gen Architect. Step:2 Explain the time duration for each topic in step 1. Finally summarize how effective if I follow these steps 
+ 
+13.	Math Problem Solving
+Solve this math problem by showing your work: [Question here]
+ 
+Try; Solve this math problem by showing your work: A car travels 150 km at a speed of 50 km/h. Then it travels another 120 km at a speed of 60 km/h. What is the average speed of the car for the entire trip?  
+
+14.	Logical Puzzle
+Solve the following logic puzzle. Show your reasoning process: [Puzzle description]
+ 
+Solve the following logic puzzle. Show your reasoning process:
+
+I am a three-digit number.
+My tens digit is five more than my ones digit.
+
+
+My hundreds digit is eight less than my tens digit.
+
+
+What number am I?
+E. Instruction Tuning / Format Control
+
+15.	Output Formatting
+Summarize the article below in exactly [X] bullet points.
+
+Try; Summarize the article below in exactly [10] bullet points.
+https://www.bbc.com/news/articles/cpqeng9d20go
+Topic: AI system resorts to blackmail if told it will be removed
+ 
+ 
+16.	Table Generation
+Create a table comparing [A], [B], and [C] based on [criteria].
+
+Try; Create a table comparing pyautogui, playwright, and Selenium based on Whatsapp automation.
+ 
+17.	Email Writing
+Write a professional email to [recipient] regarding [purpose]. Use a formal tone.
+ 
+Try; Write a professional email to Manager regarding Sick Leave. Use a formal tone.
+ 
+F. Contextual Prompts
+
+18.	Tailored Explanation
+Explain [complex topic] to a [age group] who knows [background knowledge].
+> Example: Explain blockchain to a high school student who understands basic computer science.
+ 
+Try; Explain Coding using AI to a aange group of 30-35 who knows Graphic Design.
+
+19.	Industry-Specific Context
+As a [industry expert], explain how [technology/product] impacts [specific industry].
+ 
+ Try; As an FMCG Artwork Designer, explain how Package design impacts FMCG Products.
+
+ 
+ 
+G. Creative Writing Prompts
+
+20.	Story Writing
+Write a short story about [character] who [goal] but faces [obstacle].
+ 
+Try; Write a short story about Superman who wants to save the world but he lost his super power and should regain it.
+
+21.	Poem Writing
+Write a poem in [style/poetic form] about [theme].
+ 
+Try; Write a poem in Tamil Andhadhi about Husband and Wife love.
+ 
+22.	Dialogue Writing
+Write a realistic dialogue between [Person A] and [Person B] discussing [topic].
+ 
+Try; Write a realistic dialogue between Ram and Raj discussing Indian Economics. 
+ 
+H. Code Technical Prompts
+23.	Code Generation
+Write a [language] function that [does something].
+Example: Write a Python function to calculate Fibonacci numbers.
+
+Try; Write a Python function that solve mathematic problems.
+ 
+24.	Debugging Help
+Here is some code. Find and fix any errors: [code snippet]
+
+Try; Here is some code. Find and fix any errors:
+
+import random
+from quiz_questions import questions  # Importing the list from your .py file
+
+def ask_question(q):
+    print("\n" + q["question"])
+    for key, value in q["options"].items():
+        print(f"{key}. {value}")
+    answer = input("Your answer (A/B/C/D): ").strip(
+    if answer == q["answer"]:
+        print("✅ Correct!")
+        return 1
+    else:
+        print(f"❌ Incorrect. The correct answer is {q['answer']}")
+        return 0
+
+def start_quiz():
+    name = input("Enter your name: ").strip()
+    random.shuffle(questions)  # Randomize the questions
+    score = 0
+    for i, q in enumerate(questions[:10]):  # Ask any 10 questions from the shuffled list
+        print(f"\nQuestion {i + 1}:")
+        score += ask_question(q)
+    print(f"\n🎉 {name}, your final score is: {score}/10")
+
+if __name__ == "__main__":
+    start_quiz()
+
+ 
+25.	API Documentation
+Explain how to use the [API name] with an example request and response.
+
+Try: Explain how to use the Streamlit with an example request and response. 
+ 
+ 
+I. Marketing Business Prompts
+26.	Ad Copywriting
+Write a compelling ad for [product/service] targeting [audience].
+ 
+ Try: Write a compelling ad for Masala Products targeting Indians settled in Canada. 
+
+27.	Product Description
+Write a persuasive product description for [product name].
+ 
+ Try: Write a persuasive product description for Chilli Powder.
+
+28. Social Media Post
+Create a social media post promoting [event/product/idea] in a friendly tone.
+
+Try: Create a social media post promoting Offline meetup of a course named GEN AI Architect in a friendly tone.
+ 
+  
+J. Customer Support & Service Prompts
+29.	Response to Complaint
+Respond professionally to this customer complaint: [Customer message here]
+
+Try: Respond professionally to this customer complaint: Missing the delivery Time
+ 
+ 
+30.	FAQ Generator
+Generate 5 common FAQs and answers for [topic/product]
+Try: FAQ Generator
+Generate 5 common FAQs and answers for Printing and Designing Studio 
+ 
+ 
+K. Education Tutoring Prompts
+
+31.	Lesson Plan Creation
+Create a lesson plan for teaching [topic] to [grade level].
+
+Try: Create a lesson plan for teaching Graphic Design to Working Professionals.
+ 
+ 
+32.	Quiz Generation
+Generate a 5-question quiz about [subject/topic].
+
+Try: Generate a 5-question quiz about Nano Technology.
+ 
+33.	Homework Help
+Explain how to solve this [math/science] problem: [Question here]
+
+
+Try: Explain how to solve this math problem: A train travels 120 kilometers in 2 hours at a constant speed. It then travels another 180 kilometers in 3 hours. What is the average speed of the train over the entire journey?
+ 
+ 
+L. Advanced Framework-Based Templates
+
+34.	ReAct Framework
+Thought: [model thinks about what to do next]
+Action: [model takes an action]
+Observation: [result of the action]
+Answer: [final answer]
+Simulate agent behavior manually.
+ 
+Try: "What's the capital of the country with the largest population in the world?"
+
+Thought: To answer this, I need to identify the country with the largest population, then find its capital.
+Action: Search["country with the largest population"]
+Observation: The country with the largest population is China.
+Thought: Now I need to find the capital of China.
+Action: Lookup["capital of China"]
+Observation: The capital of China is Beijing.
+Answer: The capital of the country with the largest population (China) is Beijing.
+
+ 
+35.	Tree of Thoughts (TOT)
+Generate 3 possible solutions to [problem]. Evaluate each and choose the best one.
+Self-Consistency Prompting
+Solve the following question in 3 different ways and pick the most consistent answer:
+[Question here]
+ 
+
+Try:
+Generate 3 possible solutions to the problem:
+“How can I automate sending a daily WhatsApp message to my client at 9 AM?”
+Evaluate each and choose the best one.
+ Solve the following question in 3 different ways and pick the most consistent answer:
+“What is the average of these three numbers: 24, 36, and 60?”
+
+M. Prompt Optimization Evaluation
+
+37.	Prompt Refinement
+Improve this prompt: "[Original prompt]"
+Make it clearer, more specific, and structured.
+
+Try: 
+ Improve this prompt: "[Solve the following question in 3 different ways and pick the most consistent answer:
+“What is the average of these three numbers: 24, 36, and 60?”]" 
+Make it clearer, more specific, and structured
+ 
+38.	Prompt Grading Rubric
+Rate this output based on the following criteria (1-5):  
+ 
+Relevance:
+Accuracy:
+Clarity:
+Fluency:
+Creativity:
+Final Score:
+
+Try: 
+Final Answer (based on consistency): 40
+Rate this output based on the following criteria (1-5):  
+Relevance:
+Accuracy:
+Clarity:
+Fluency:
+Creativity:
+Final Score:
+
+
+
+
+39.	Prompt Iteration Challenge
+Take this weak prompt: “[Prompt]”
+Now rewrite it 3 times to improve clarity and effectiveness.
+
+Try: 
+Take this weak prompt: “[Write a poem about the moon.]”
+Now rewrite it 3 times to improve clarity and effectiveness.
+
+
+N. Real World Application Prompts
+
+40.	Job Posting Creation
+Write a job posting for [position] at [company]. Include responsibilities, requirements, and befinits.
+
+Try: Write a job posting for [Graphic Designer] at [ABC Pvt. Ltd.]. Include responsibilities, requirements, and befinits.
+
+41.	Resume Summary builder
+Create a professional summary for a resume based on the following details:
+ [Experience, skills, achievements]
+Try: Create a professional summary for a resume based on the following details:
+[Experience in graphic Design, Package design, Layout artist, Earned employee of the year awards ] 
+42.	Business Proposal
+write a proposal for[project idea] to [client/investor].include objectives, methodology,  and benefits 
+Try: write a proposal for Low cost Printing to Education Institution/Coaching Centre. include objectives, methodology,  and benefits 
+
+42.	Opinion Writing
+write an opinion piece on [topic]. Use persuasive arguments and examples.
+Try: write an opinion piece on climate change. Use persuasive arguments and examples.
+44.	Debate Preparation
+Prepare arguments for both sides of the debate: “[Debate topic]”
+Try: Prepare arguments for both sides of the debate: “Current Indian Economy”
+45.	Travel Planning
+Plan a 5-day trip to [destination] for [type of traveler]. Include activities, budget, and tips.
+Try; Plan a 5-day trip to Yelagiri for Family. Include activities, budget, and tips.
+46.	Book/Movie Review
+Write a review of [book/movie]. Include plot summary, Strengths, weaknesss, and recommendation.
+Try: Write a review of The alchemist. Include plot summary, Strengths, weaknesss, and recommendation.
+47.	Personal Development
+Give me actionable advice on how to [goal], including daily habits and mindset shifts.
+Try: Give me actionable advice on how to be consistent in learning python, including daily habits and mindset shifts.
+P. Prompt Chaining Examples
+48.	 Multi-step Research Tast
+Step 1:
+Find out the top 5 causes of climate change.
+Step 2:
+Based on those causes, suggest g practical Solutions individuals can adopt.
+Try: Step 1:
+Find out the top 5 top reason on Indian politics stability.
+Step 2:
+Based on those causes, suggest g practical Solutions individuals can adopt.
+
+49.	Idea to Execution
+ Step 1:
+Generate 5 business ideas for eco-friendly products
+Step 2:
+Pick one idea and create a marketing strategy for it
+Try:  Step 1:
+Generate 5 ideas for Digital Marketing for my Printing Business
+Step 2:
+Pick one idea and create a marketing strategy for it
+50.	Universal Prompt BUilder
+[Role] + [Task] + [Context] + [Example] + [Format]
+Example:
+You are a nutritionist. Create a weekly meal plan for someone with diabetes. Include breakfast, lunch, dinner, and snacks. Format as a table.
+Try: 
+Role: You are great Economist and financial analyst. You have deeper knowledge on world economics and especially in Indian market.
+
+Task: I want you to solve my doubts and share informations about the economic informations I ask for.
+
+Context: I want to understand the economics and financial mediums in the current condition. So that I could make my investments. But before getting in to investments. I need your support in understanding the economic events. Like
+-how a treaty made.
+-A story behind a company
+-how an incident affect the global market and Indian market
+-key things to notice
+
+Few shots:
+Title:...
+Year:...
+Info:...
+
+Report: I want you to be my partner. So don't be so formal or professional. Correct me if I ask questions apart from this field. I want to be an expert in Investments. I like to build conversations.
